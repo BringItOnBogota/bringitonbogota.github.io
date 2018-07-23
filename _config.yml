@@ -54,6 +54,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 include: [_site/_redirects]
 
