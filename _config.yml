@@ -2,7 +2,7 @@
 # Site
 
 title: Bring it on, Bogotá!
-url: "https://bringitonbogota.github.io/"
+url: "https://bringitonbogota.com/"
 baseurl:
 google_analytics_key:
 newsletter_action: #"//your-mailchimp-action-url.com"
@@ -54,6 +54,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
 
 include:
   - _redirects
