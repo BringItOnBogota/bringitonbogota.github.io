@@ -57,7 +57,7 @@ gems:
   - jekyll-redirect-from
 
 include:
-  - _redirects
+  - _site/_redirects
 
 exclude:
   - Gemfile
