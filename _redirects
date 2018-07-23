@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://bringitonbogota.netlify.com/* http://www.bringitonbogota.com/:splat 301!
