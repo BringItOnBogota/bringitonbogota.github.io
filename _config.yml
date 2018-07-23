@@ -55,7 +55,8 @@ gems:
   - jekyll-feed
   - jekyll-paginate
 
-include: [_site/_redirects]
+include:
+  - _redirects
 
 exclude:
   - Gemfile
